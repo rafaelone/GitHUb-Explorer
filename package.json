@@ -12,6 +12,7 @@
     "@types/react-dom": "^16.9.0",
     "@types/styled-components": "^5.1.0",
     "axios": "^0.19.2",
+    "gh-pages": "^2.2.0",
     "polished": "^3.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -21,11 +22,14 @@
     "styled-components": "^5.1.0",
     "typescript": "~3.7.2"
   },
+  "homepage": "https://rafaelone.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [

@@ -22,7 +22,6 @@
     "styled-components": "^5.1.0",
     "typescript": "~3.7.2"
   },
-  "homepage": "https://rafaelone.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

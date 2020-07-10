@@ -49,4 +49,4 @@ Agradecimentos [Rocketseat](https://rocketseat.com.br/) 🚀
 👤 **Rafael Sergio**
 
 - Github: [Rafael Sergio](https://github.com/rafaelone)
-- Linkedin: [Roberta Soares](https://www.linkedin.com/in/rafael-sergio-982951103/)
+- Linkedin: [Rafael Sergio](https://www.linkedin.com/in/rafael-sergio-982951103/)
